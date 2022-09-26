@@ -1,4 +1,6 @@
 import CartWidget from './CartWidget'
+import logo from './logo.png';
+
 
 
 
